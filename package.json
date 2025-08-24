@@ -6,7 +6,5 @@
     "dev": "vercel dev"
   }
 }
-{
-  "type": "module"
-}
+
 
